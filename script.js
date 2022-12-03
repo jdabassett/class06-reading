@@ -108,4 +108,3 @@ person2.introduceSelf();
 //https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics#youve_been_using_objects_all_along
 
 
-const myNotification = new Notification("Hello!");
